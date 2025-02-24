@@ -53,9 +53,6 @@ python game_of_life.py
 #### Grid with Randomized Cells
 ![Grid with Randomized Cells](static/Grid%20with%20Randomized%20Cells.png)
 
-#### Simulation Running
-![Simulation Running](static/Zoomed-In%20View.png)
-
 #### Paused State
 ![Paused State](static/Paused%20State%20.png)
 
