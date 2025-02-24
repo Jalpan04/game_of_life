@@ -60,7 +60,7 @@ python game_of_life.py
 ![Zoomed-In View](static/Zoomed-In%20View.png)
 
 ### **Video Preview**
-[Simulation Running](static/Simulation%20Running.mp4)
+[Simulation Running](static/Simulation%20Running.gif)
 
 _(For the best experience, play the video to see the simulation in action.)_
 
