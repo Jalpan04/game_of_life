@@ -48,19 +48,19 @@ python game_of_life.py
 ## **Screenshots & Video 🎥**
 ### **Screenshots**
 #### Initial Help Screen
-![Initial Help Screen](static/Initial%20Help%20Screen.png)
+<a href="static/Initial%20Help%20Screen.png"><img src="static/Initial%20Help%20Screen.png" width="300"></a>
 
 #### Grid with Randomized Cells
-![Grid with Randomized Cells](static/Grid%20with%20Randomized%20Cells.png)
+<a href="static/Grid%20with%20Randomized%20Cells.png"><img src="static/Grid%20with%20Randomized%20Cells.png" width="300"></a>
 
 #### Paused State
-![Paused State](static/Paused%20State%20.png)
+<a href="static/Paused%20State%20.png"><img src="static/Paused%20State%20.png" width="300"></a>
 
 #### Zoomed-In View
-![Zoomed-In View](static/Zoomed-In%20View.png)
+<a href="static/Zoomed-In%20View.png"><img src="static/Zoomed-In%20View.png" width="300"></a>
 
 ### **Video Preview**
-[Simulation Running](static/Simulation%20Running.gif)
+[![Simulation Running](static/Simulation%20Running.gif)](static/Simulation%20Running.gif)
 
 _(For the best experience, play the video to see the simulation in action.)_
 
@@ -77,3 +77,4 @@ _(For the best experience, play the video to see the simulation in action.)_
 Feel free to fork and improve this project. PRs are welcome!
 
 ---
+
