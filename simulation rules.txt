@@ -1,0 +1,11 @@
+Rule #1: A live cell with fewer than two live
+neighbors dies (underpopulation).
+
+Rule #2: A live cell with two or three live
+neighbors remains alive (survival).
+
+Rule #3: A live cell with more than three live
+neighbors dies (overpopulation).
+
+Rule #4: A dead cell with exactly three live
+neighbors becomes alive treproduction).
