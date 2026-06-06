@@ -1,4 +1,6 @@
 # **Conway's Game of Life 🧬**
+
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/game_of_life) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/game_of_life) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 A Python implementation of John Conway's Game of Life using `pygame`. This simulation of cellular automata follows simple rules to create complex, evolving patterns.
 
 ---
